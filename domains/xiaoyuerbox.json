@@ -3,5 +3,8 @@
   "ns": [
     "kia.ns.cloudflare.com",
     "ruben.ns.cloudflare.com"
-  ]
+  ],
+  "owner": {
+    "email": "36034729@qq.com"
+  }
 }
