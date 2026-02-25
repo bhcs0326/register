@@ -6,5 +6,11 @@
   ],
   "owner": {
     "email": "36034729@qq.com"
+  },
+  "records": {
+    "NS": [
+      "kia.ns.cloudflare.com",
+      "ruben.ns.cloudflare.com"
+    ]
   }
 }
